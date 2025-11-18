@@ -1,7 +1,7 @@
 # UI-UX-Experiment4
 
-## Regno: 212223240118
-## Name: POZHILAN V D
+## Regno: 212223240167
+## Name: THARUN D
 
 ## Aim:
  To Design a wireframe diagram for a generic application or website using Balsamiq, including at least 5 essential screens/pages
